@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qlourenco" alt="qlourenco" /></a> </p>
-
 - 🔭 I’m currently working on [Diamond](https://github.com/qlourenco/Diamond)
 
 - 🌱 I’m currently learning **React**
