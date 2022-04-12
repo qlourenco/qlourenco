@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Boob-Kit](https://github.com/qlourenco/boob-kit)
 
-- 🌱 I’m currently learning **PHP and React**
+- 🌱 I’m currently learning **PHP and VueJS**
 
 - 📫 How to reach me **quentin.lourenco9@gmail.com**
 
