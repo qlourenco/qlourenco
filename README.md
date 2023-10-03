@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qlourenco" alt="qlourenco" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/qlourenco1" target="blank"><img src="https://img.shields.io/twitter/follow/qlourenco1?logo=twitter&style=for-the-badge" alt="qlourenco1" /></a> </p>
-
 - 🔭 I’m currently working on [Boob-Kit](https://github.com/qlourenco/boob-kit)
 
 - 🌱 I’m currently learning **PHP and VueJS**
